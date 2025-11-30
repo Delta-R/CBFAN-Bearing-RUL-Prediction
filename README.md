@@ -12,7 +12,7 @@ CBFAN targets bearing RUL prediction by jointly exploiting time-domain, frequenc
 
 The figure below shows the overall framework of CBFAN. Starting from raw vibration signals, the data passes through a global cross-dimensional statistical attention module, a multi-scale dual-temporal attention fusion module, and a multi-head feature-fusion Transformer encoder, and finally outputs the bearing RUL prediction curve.
 
-<img src="structure.png" alt="CBFAN Framework" style="zoom: 50%;" />
+<img src=structure.png  width=70%  />
 
 This repository includes:
 
